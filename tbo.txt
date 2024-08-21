@@ -6889,6 +6889,3 @@ else
     end
 else
 end
-else
-    print("this version is outdated, use new version.")
-end
